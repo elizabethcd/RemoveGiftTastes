@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveGiftTastes", "RemoveGiftTastes\RemoveGiftTastes.csproj", "{5D498BA7-9E9D-4BBD-8F04-6529DDCD5E1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D498BA7-9E9D-4BBD-8F04-6529DDCD5E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D498BA7-9E9D-4BBD-8F04-6529DDCD5E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D498BA7-9E9D-4BBD-8F04-6529DDCD5E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D498BA7-9E9D-4BBD-8F04-6529DDCD5E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50696769-FDC2-4760-B7CF-608452810078}
+	EndGlobalSection
+EndGlobal
